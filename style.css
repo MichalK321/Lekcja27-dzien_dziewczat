@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(255, 159, 175);
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    cursor: url("kursor1.png"), auto;
+}
+
+h1{
+    font-size: 40px;
+    letter-spacing: 6px;
+}
+
+h2{
+    font-size: 17px;
+}#zmiana{
+	
+}
+
+
+.glowny{
+    background-color: gray;
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    border-radius: 15px;
+    cursor: url("kursor2.png"), auto;
+}
+
+img{
+    cursor: crosshair;
+}
+
+.link{
+    font-size: 10px;
+}
